@@ -8,12 +8,12 @@ The “Bank Account Management System” project is a model Internet Banking Sit
 
 ![Code inspector Grade](https://www.code-inspector.com/project/28259/status/svg)
 
-[![Git Inspector](https://github.com/UmaSurapally/Stepin_BankManagementSystem/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/UmaSurapally/Stepin_BankManagementSystem/actions/workflows/git_inspector.yml)
+[![Git Inspector](https://github.com/aswinikakarla/M1_Project_Bank-management-system.git/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/aswinikakarla/M1_Project_Bank-management-system.git/actions/workflows/git_inspector.yml)
 
-[![cppcheck-action](https://github.com/UmaSurapally/Stepin_BankManagementSystem/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/UmaSurapally/Stepin_BankManagementSystem/actions/workflows/cppcheck.yml)
+[![cppcheck-action](https://github.com/aswinikakarla/M1_Project_Bank-management-system.git/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/aswinikakarla/M1_Project_Bank-management-system.git/actions/workflows/cppcheck.yml)
 
 
-[![Unit testing](https://github.com/UmaSurapally/Stepin_BankManagementSystem/actions/workflows/unittest.yml/badge.svg)](https://github.com/UmaSurapally/Stepin_BankManagementSystem/actions/workflows/unittest.yml)
+[![Unit testing](https://github.com/aswinikakarla/M1_Project_Bank-management-system.git/actions/workflows/unittest.yml/badge.svg)](https://github.com/aswinikakarla/M1_Project_Bank-management-system.git/actions/workflows/unittest.yml)
 
-[![CI](https://github.com/UmaSurapally/Stepin_BankManagementSystem/actions/workflows/main.yml/badge.svg)](https://github.com/UmaSurapally/Stepin_BankManagementSystem/actions/workflows/main.yml)
+[![CI](https://github.com/aswinikakarla/M1_Project_Bank-management-system.git/actions/workflows/main.yml/badge.svg)](https://github.com/aswinikakarla/M1_Project_Bank-management-system.git/actions/workflows/main.yml)
 
